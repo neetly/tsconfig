@@ -28,6 +28,8 @@
     "forceConsistentCasingInFileNames": true,
 
     "lib": ["ESNext"],
-    "types": []
+    "types": [],
+
+    "skipLibCheck": true
   }
 }
