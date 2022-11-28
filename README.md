@@ -8,7 +8,7 @@ yarn add --dev @neetly/tsconfig
 ```
 
 ```jsonc
-// <root>/tsconfig.json
+// tsconfig.json
 {
   "extends": "@neetly/tsconfig",
 
