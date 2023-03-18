@@ -17,11 +17,10 @@
     "noUncheckedIndexedAccess": true,
 
     "module": "ESNext",
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
 
-    "isolatedModules": true,
-    "importsNotUsedAsValues": "error",
+    "verbatimModuleSyntax": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
 
