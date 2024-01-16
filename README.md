@@ -16,7 +16,7 @@ yarn add --dev @neetly/tsconfig
 
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "./lib"
-  }
+    "outDir": "./lib",
+  },
 }
 ```
