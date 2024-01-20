@@ -27,6 +27,6 @@
     "lib": ["ESNext"],
     "types": [],
 
-    "skipLibCheck": true
-  }
+    "skipLibCheck": true,
+  },
 }
